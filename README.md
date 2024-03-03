@@ -1,6 +1,7 @@
 # AuroraX_yolo repo
 此库存放自用配置（圈x配置，loon配置）以及各种分流规则
 ### 说明 :
+* [Script Hub](https://scripthub.vercel.app/)重写 & 规则集转换 
 * [Yfamyily](https://whatshub.top/)分流规则和重写
 * [Loon官方教程](https://is.gd/V6nyGA)
 * [Loon知识库](http://docs.nsloon.com/)
