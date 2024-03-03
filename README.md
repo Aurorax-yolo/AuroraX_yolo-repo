@@ -6,7 +6,7 @@
 * [Loon官方教程](https://is.gd/V6nyGA)
 * [Loon知识库](http://docs.nsloon.com/)
 * [Quantumult X教程](https://qx.atlucky.me/)
-* repo中的配置均已验证过，都可正常使用，因为loon使用的是tf，并未适配商店版，如有报错请检查报错行
+* repo中的配置均已验证过，都可正常使用，但loon使用的是tf，并未在商店版测试，如有报错请自行检查报错行
 * 后续会添加Shadowrocket配置和surge配置,敬请期待......
 ## 免责声明!!!
 1. AuroraX_yolo发布的AuroraX_yolo repo项目中的配置涉及任何解锁和解密分析脚本仅用于学习研究，不保证其合法性、准确性、有效性，请根据情况自行判断，本人对此不承担任何保证责任。
