@@ -1,4 +1,4 @@
-# Aurora-s-repo
+# AuroraX_yolo repo
 此处存放个人自用配置，圈x配置，loon配置以及各种分流规则
 
 ## 免责声明!!!
