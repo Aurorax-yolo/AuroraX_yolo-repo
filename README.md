@@ -6,6 +6,7 @@
 * [Loon官方教程](https://is.gd/V6nyGA)
 * [Loon知识库](http://docs.nsloon.com/)
 * [Quantumult X教程](https://qx.atlucky.me/)
+* QuantumultX配置使用了墨鱼去广告为基板，我删减了部分用不到的以及增加了部分分流和重写
 * repo中的配置均已验证过，都可正常使用，但loon使用的是tf，并未在商店版测试，如有报错请自行检查报错行
 * 后续会添加Shadowrocket配置和surge配置,敬请期待......
 ## 免责声明!!!
