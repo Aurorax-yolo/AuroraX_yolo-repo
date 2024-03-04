@@ -3,7 +3,7 @@
 ### 说明 :
 * [Script Hub](https://scripthub.vercel.app/)重写 & 规则集转换 
 * [Yfamily](https://whatshub.top/)分流规则和重写
-* [规则集](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/LanZouYun/LanZouYun.list)分流规则和重写及脚本
+* [规则集](https://github.com/blackmatrix7/ios_rule_script)分流规则和重写及脚本
 * [Loon官方教程](https://is.gd/V6nyGA)
 * [Loon知识库](http://docs.nsloon.com/)
 * [Quantumult X教程](https://qx.atlucky.me/)
