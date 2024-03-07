@@ -7,6 +7,7 @@
 * [Loon官方教程](https://is.gd/V6nyGA)
 * [Loon知识库](http://docs.nsloon.com/)
 * [Quantumult X教程](https://qx.atlucky.me/)
+* [Sub-Store](https://github.com/sub-store-org/Sub-Store)
 * repo中的配置均已验证过，均可正常使用
 * 后续会添加Shadowrocket配置和surge配置,敬请期待......
 * qx配置完美使用...
