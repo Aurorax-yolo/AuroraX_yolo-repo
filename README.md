@@ -10,8 +10,6 @@
 * [Sub-Store](https://github.com/sub-store-org/Sub-Store)
 * repo中的配置均已验证过，均可正常使用
 * 后续会添加Shadowrocket配置,敬请期待......
-* qx配置完美使用...
-* loon请等待,新版本暂未进行修改
 ### 机场推荐(月冲为宜)
 * [zhoushuren](https://zhoushuren.me/#/register?code=lhtSjHBR)
 * [Vmssr](https://ajax.vmssr.cc/#/register?code=GlFF6ROw)
