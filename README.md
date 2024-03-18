@@ -9,7 +9,6 @@
 * [Quantumult X教程](https://qx.atlucky.me/)
 * [Sub-Store](https://github.com/sub-store-org/Sub-Store)
 * repo中的配置均已验证过，均可正常使用
-* 后续会添加Shadowrocket配置,敬请期待......
 ### 机场推荐(月冲为宜)
 * [zhoushuren](https://zhoushuren.me/#/register?code=lhtSjHBR)
 * [Vmssr](https://ajax.vmssr.cc/#/register?code=GlFF6ROw)
