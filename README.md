@@ -7,7 +7,7 @@
 * [Loon官方教程](https://is.gd/V6nyGA)
 * [Loon知识库](http://docs.nsloon.com/)
 * [Quantumult X教程](https://qx.atlucky.me/)
-* [Sub-Store](https://github.com/sub-store-org/Sub-Store)
+* [Sub-Store](https://github.com/sub-store-org/Sub-Store)自行添加该模块或重写
 * repo中的配置均已验证过，均可正常使用
 ### 机场推荐(月冲为宜)
 * [zhoushuren](https://zhoushuren.me/#/register?code=lhtSjHBR)
